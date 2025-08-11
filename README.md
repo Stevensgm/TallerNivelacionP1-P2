@@ -109,9 +109,9 @@
 
 - Forks:
 
-1. git clone https://www.spanishdict.com/translate/fork: Clonas tu propio fork del proyecto.
+1. git clone Clonas tu propio fork del proyecto.
 
-2. git remote add upstream https://www.reddit.com/r/git/comments/3ny1bo/delete_all_files_and_repull_to_get_the_originals/: Añades el repositorio original como un remoto con el nombre upstream.
+2. git remote add upstream  Añades el repositorio original como un remoto con el nombre upstream.
 
 3. git fetch upstream: Traes los cambios del repositorio original.
 
